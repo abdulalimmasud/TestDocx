@@ -1,0 +1,11 @@
+G:\test\testDocx\testDocx\bin\Debug\netcoreapp2.1\testDocx.deps.json
+G:\test\testDocx\testDocx\bin\Debug\netcoreapp2.1\testDocx.runtimeconfig.json
+G:\test\testDocx\testDocx\bin\Debug\netcoreapp2.1\testDocx.runtimeconfig.dev.json
+G:\test\testDocx\testDocx\bin\Debug\netcoreapp2.1\testDocx.dll
+G:\test\testDocx\testDocx\obj\Debug\netcoreapp2.1\testDocx.csproj.CoreCompileInputs.cache
+G:\test\testDocx\testDocx\obj\Debug\netcoreapp2.1\testDocx.AssemblyInfoInputs.cache
+G:\test\testDocx\testDocx\obj\Debug\netcoreapp2.1\testDocx.AssemblyInfo.cs
+G:\test\testDocx\testDocx\bin\Debug\netcoreapp2.1\testDocx.pdb
+G:\test\testDocx\testDocx\obj\Debug\netcoreapp2.1\testDocx.csprojAssemblyReference.cache
+G:\test\testDocx\testDocx\obj\Debug\netcoreapp2.1\testDocx.dll
+G:\test\testDocx\testDocx\obj\Debug\netcoreapp2.1\testDocx.pdb
